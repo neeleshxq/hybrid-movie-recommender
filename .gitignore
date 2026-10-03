@@ -1,0 +1,43 @@
+# Python
+
+**pycache**/
+*.py[cod]
+*.pyo
+
+# Virtual environment
+
+.venv/
+venv/
+env/
+
+# IDE
+
+.vscode/
+.idea/
+
+# Jupyter
+
+.ipynb_checkpoints/
+
+# OS
+
+.DS_Store
+Thumbs.db
+
+# Generated outputs
+
+outputs/*
+
+# Local data
+
+data/*
+!data/.gitkeep
+
+# Environment variables
+
+.env
+.env.*
+
+# Logs
+
+*.log
